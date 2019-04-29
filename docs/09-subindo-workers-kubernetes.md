@@ -4,7 +4,7 @@ Nesse lab você irá subir três nós _worker_ do Kubernetes. Os seguintes compo
 
 ## Pré-requisitos
 
-Os comandos nesse lab devem ser executados em cada instância de controladora:  `controller-0`, `controller-1`, e `controller-2`. Conecte em cada controladora utilizando o comando `gcloud`. Exemplo:
+Os comandos nesse lab devem ser executados em cada instância de controladora:  `worker-0`, `worker-1`, e `worker-2`. Conecte em cada controladora utilizando o comando `gcloud`. Exemplo:
 
 ```
 gcloud compute ssh worker-0
