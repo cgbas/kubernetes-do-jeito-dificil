@@ -1,10 +1,10 @@
 **ATENÇÃO**: Essa é uma tradução livre, sem fins lucrativos, buscando apenas facilitar o acesso a material em Português sobre o Kubernetes diretamente de quem realmente entende do assunto, nada menos que **Kelsey Hightower**.
 
-** Status em: 18/06/2018 **
-** Previsão de conclusão: 23/06/2018 **
+** Status em: 21/05/2019 **
+** Previsão de conclusão: 30/05/2019 **
 
-__Sessões revisadas__: README, 01, 02, 03, 06, 12, 14
-__Sessões pendentes__: 04, 05, 07, 08, 09, 10, 11, 13
+__Sessões revisadas__: 0
+__Sessões pendentes__: README, 01, 02, 03, 06, 12, 14, 04, 05, 07, 08, 09, 10, 11, 13
 
 # Kubernetes do Jeito Difícil
 
