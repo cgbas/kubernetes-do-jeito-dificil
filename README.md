@@ -1,10 +1,10 @@
 **ATENÇÃO**: Essa é uma tradução livre, sem fins lucrativos, buscando apenas facilitar o acesso a material em Português sobre o Kubernetes diretamente de quem realmente entende do assunto, nada menos que **Kelsey Hightower**.
 
-** Status em: 21/05/2019 **
-** Previsão de conclusão: 30/05/2019 **
+** Status em: 18/06/2018 **
+** Previsão de conclusão: 26/06/2018 **
 
-__Sessões revisadas__: 0
-__Sessões pendentes__: README, 01, 02, 03, 06, 12, 14, 04, 05, 07, 08, 09, 10, 11, 13
+__Sessões revisadas__: README, 01, 02, 
+__Sessões pendentes__: 03, 04, 05, 06, 07, 08, 09, 10, 11, 12, 13, 14
 
 # Kubernetes do Jeito Difícil
 
@@ -22,11 +22,12 @@ O público alvo para esse tutorial é alguém planejando suportar um cluster de 
 
 O Kubernetes do Jeito Difícil irá guiá-lo para colocar no ar um cluster Kubernetes de alta disponibilidade com encriptação fim-a-fim entre componentes e autenticação RBAC.
 
-* [Kubernetes](https://github.com/kubernetes/kubernetes) 1.10.2
-* [containerd Container Runtime](https://github.com/kubernetes-incubator/cri-containerd) 1.1.0
-* [gVisor](https://github.com/google/gvisor) 08879266fef3a67fac1a77f1ea133c3ac75759dd
+* [Kubernetes](https://github.com/kubernetes/kubernetes) 1.12.0
+* [containerd Container Runtime](https://github.com/containerd/containerd) 1.2.0-rc.0
+* [gVisor](https://github.com/google/gvisor) 50c283b9f56bb7200938d9e207355f05f79f0d17
 * [CNI Container Networking](https://github.com/containernetworking/cni) 0.6.0
-* [etcd](https://github.com/coreos/etcd) 3.3.5
+* [etcd](https://github.com/coreos/etcd) v3.3.9
+* [CoreDNS](https://github.com/coredns/coredns) v1.2.2
 
 ## Laboratórios
 
