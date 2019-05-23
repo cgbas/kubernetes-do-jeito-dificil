@@ -2,7 +2,7 @@
 
 ## Google Cloud Platform
 
-Esse tutorial explora o [Google Cloud Platform](https://cloud.google.com/) simplificar o provisionameto da arquitetura computacional necessária para subir um cluster de Kubernetes do zero. [Inscreva-se em] (https://cloud.google.com/free/) para $300 (dólares) em créditos.
+Esse tutorial explora o [Google Cloud Platform](https://cloud.google.com/) para simplificar o provisionameto da arquitetura computacional necessária para subir um cluster de Kubernetes do zero. [Inscreva-se em] (https://cloud.google.com/free/) para $300 (dólares) em créditos.
 
 [Custo estimado](https://cloud.google.com/products/calculator/#id=78df6ced-9c50-48f8-a670-bc5003f2ddaa) para executar esse tutorial: $0.22 (dólares) por hora ($5.39 (dólares) por dia).
 
@@ -14,7 +14,7 @@ Esse tutorial explora o [Google Cloud Platform](https://cloud.google.com/) simpl
 
 Siga a [documentação](https://cloud.google.com/sdk/)(em Inglês) do SDK do Google Cloud para instalar e configurar o utilitário de linha de comando `gcloud`.
 
-Verifique que a versão do SDK do Google Cloud é 200.0.0 ou superior:
+Verifique que a versão do SDK do Google Cloud é 218.0.0 ou superior:
 
 ```
 gcloud version
